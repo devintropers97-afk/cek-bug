@@ -75,6 +75,7 @@ SMTP_PASS=[password_smtp_anda]
 ### Bug Fix:
 - ✅ **Fixed:** Error "Direct access not permitted" pada semua halaman auth
 - ✅ **Fixed:** Menambahkan security check `SITUNEO_ACCESS` di semua file auth
+- ✅ **Fixed:** Error "Class 'Auth' not found" - Bootstrap sekarang otomatis load core classes (User & Auth)
 
 ### File Structure:
 ```
